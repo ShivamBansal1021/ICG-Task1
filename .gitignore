@@ -1,0 +1,4 @@
+venv/
+train.csv
+test_final.csv
+sample_submission.csv
